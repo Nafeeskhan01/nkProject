@@ -1,0 +1,642 @@
+/* @media screen and (max-width:800px) { */
+  body { 
+    margin: 0%;
+    padding: 0%;
+    font-family: Lexend;
+  }
+
+  .groupimg {
+    background-image: url("https://mobirise.com/extensions/glassm5/freelancer/assets/images/background6.jpg");
+    background-repeat: no-repeat;
+    background-size: 273%;
+    height: 928px;
+    width: 100%;
+    margin-top: -52px;
+  }
+
+  .groupimg {}
+
+  .navbar-caption {
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    margin: -39px 154px 23px -76px;
+  }
+
+  /* .nk .navbar-caption:hover{
+  
+      color: #ff6f45;
+    border: 2px solid red;
+    border-radius: 20px;
+    background: black;
+    } */
+  #nkkhan {}
+
+  .navbar {
+
+    border: 1px solid red;
+    height: 50px;
+    padding-left: 189px;
+
+  }
+
+  .nav-item .nav-link:hover {
+    color: #ff6f45;
+    border: 2px solid red;
+    border-radius: 20px;
+    background: black;
+
+  }
+
+  .nav-item{
+   display: block;
+
+  }
+
+  .nav-link {
+    text-decoration: none;
+    margin: -49px;
+     color: white;
+    font-size: 26px;
+  }
+
+  .getbtn {
+    margin: 23px 0px 0px -53px;
+  }
+
+  .button-first {
+    height: 49px;
+    width: 141px;
+    margin-left: -9px;
+    margin-top: -24px;
+    border-radius: 43px;
+    background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+    color: white;
+    font-size: 18px;
+
+  }
+
+
+  .button-first:hover {
+    background: rgb(0, 0, 0);
+    border: 2px solid rgb(255, 68, 0);
+    color: rgb(249, 58, 0);
+  }
+
+  /* .freelance-txt {
+    margin: -743px 0px 0px 97px;
+    color: white;
+    font-size: 21px;
+  } */
+
+  .button-second {
+    height: 54px;
+    width: 230px;
+    margin-left: -16px;
+    margin-top: -18px;
+    border-radius: 43px;
+    background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+    color: white;
+    font-size: 22px;
+  }
+
+  .btn2 .button-second:hover {
+    background: rgb(0, 0, 0);
+    border: 2px solid rgb(255, 68, 0);
+    color: rgb(249, 58, 0);
+  }
+
+  .freelance-txt {
+    margin: -743px 0px 0px 97px;
+    color: white;
+    font-size: 21px;
+  }
+
+  .girl {
+    background-image: url("https://mobirise.com/extensions/glassm5/freelancer/assets/images/background5.jpg");
+    /* padding-top: 83rem; */
+    background-repeat: no-repeat;
+    background-size: 1224%;
+    height: 998px;
+    margin: 72px 0px 1px 0px;
+  }
+
+  #girl-image {
+    height: 471px;
+    width: 328px;
+    border-radius: 21px;
+    margin: 90px 4px 0px 14px;
+
+  }
+
+  #about-me {
+    width: 336px;
+    height: 268px;
+    margin: 0px 0px 0px 10px;
+    border-radius: 25px;
+    background: #fdf7ec;
+    text-align: start;
+  }
+
+  .lorem3 {
+    padding: 28px 17px 15px 90px;
+    font-size: 40px;
+  }
+
+  .lorem {
+    margin: 14px 19px 15px 454px;
+    font-size: 17px;
+  }
+
+  .lorem1 {
+    margin: -234px 19px 15px 40px;
+    font-size: 22px;
+  }
+  
+
+  .logo-area {
+    padding-top: 47rem;
+    padding-bottom: -1rem;
+    background-image: url("https://mobirise.com/extensions/glassm5/freelancer/assets/images/background1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: -25px;
+    margin: 8px 27px 172px 0px;
+    width: 100%;
+    margin-top: -128px;
+  }
+
+  .logo-txt {
+    margin: -708px 0px 0px -24px;
+    text-align: center;
+    color: white;
+  }
+
+  .all-logo {
+    display: flex;
+  }
+
+  .html-logo {
+    height: 387px;
+    width: 361px;
+    /* border: 2px solid red; */
+    margin: 126px -307px 4px 341px;
+    padding: 17px 18p 14px 21px;
+    border-radius: 38px;
+    /* background-color: white; */
+    text-align: center;
+    backdrop-filter: blur(5px);
+    border: 2px solid white;
+
+  }
+
+  #hello-js {
+    margin-top: 15px;
+    width: 158px;
+    height: 44px;
+    border-radius: 43px;
+    background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+    color: white;
+    font-size: 18px;
+  }
+
+  #hello-call {
+    margin-top: 15px;
+    width: 158px;
+    height: 44px;
+    border-radius: 43px;
+    background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+    color: white;
+    font-size: 18px;
+  }
+
+  #hello-css {
+    margin-top: 15px;
+    width: 158px;
+    height: 44px;
+    border-radius: 43px;
+    background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+    color: white;
+    font-size: 18px;
+  }
+
+  #html1 {
+    width: 200px;
+    height: 50px;
+    /* border-radius: 43px;
+  background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+  color: white;
+  font-size: 18px; */
+  }
+
+  .fa-brands,
+  .fab {
+    font-size: 114px;
+    margin-left: auto;
+    margin: 32px 134px 1px 130px;
+
+  }
+
+  /* .html-btn{
+      margin-top: 33px;
+     width:50px
+  } */
+  .html-btn .button {
+    width: 34px;
+  }
+
+  .card-img {
+    background-image: url("https://mobirise.com/extensions/glassm5/freelancer/assets/images/background5.jpg");
+    padding-top: 83rem;
+    background-repeat: no-repeat;
+    /* background-size: 100%;
+      height: 760px; */
+    margin: -172px 0px 153px 0px;
+  }
+
+  #card-image {
+    height: 415px;
+    width: 710px;
+    border-radius: 81px;
+    margin: -1227px 41px 742px 290px;
+  }
+
+
+  .card-text {
+    width: 661px;
+    height: 556px;
+    /* border: 1px solid red; */
+    margin: -1386px 0px 0px 897px;
+    background: white;
+    border-radius: 45px;
+  }
+
+  #card-head {
+    padding: 131px 34px 42px 117px;
+  }
+
+  #card-pera {
+    margin-left: 119px;
+    margin-top: -27px;
+  }
+
+  .progress {
+    margin: 17px 12px 14px 166px;
+  }
+
+  .file {
+    width: 328px;
+  }
+
+  .dolor {
+    background-image: url("https://mobirise.com/extensions/glassm5/freelancer/assets/images/background3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 771px;
+    margin: 129px -1px 34px 0px;
+    width: 100%;
+  }
+
+  .dolor-card {
+    display: flex;
+  }
+
+  .card-f {
+    height: 387px;
+    width: 361px;
+    /* border: 2px solid red; */
+    margin: 126px -307px 4px 341px;
+    padding: 17px 18p 14px 21px;
+    border-radius: 38px;
+    backdrop-filter: blur(5px);
+    border: 2px solid white;
+    text-align: center;
+  }
+
+  .dolor-head {
+    margin-left: -168px;
+    font-size: 96px;
+  }
+
+  .dolor-title {
+    margin-left: -194px;
+    margin-top: -72px;
+  }
+
+  .btn-buy {
+    margin-top: 42px;
+    width: 112px;
+    height: 40px;
+    border-radius: 20px;
+    border-radius: 43px;
+    background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+    color: white;
+    font-size: 18px;
+  }
+
+  .website-img {
+    background-image: url("https://mobirise.com/extensions/glassm5/freelancer/assets/images/background8.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 542px;
+    margin: -34px -1px 34px 0px;
+    width: 100%;
+  }
+
+  .website-txt {
+    text-align: center;
+    padding: 23px;
+    font-size: 24px;
+  }
+
+  .website-all-card {
+    display: flex;
+  }
+
+  .website-card {
+    height: 217px;
+    width: 290px;
+    /* border: 2px solid red; */
+    margin: 30px -307px 4px 403px;
+    padding: 17px 18p 14px 21px;
+    border-radius: 38px;
+    background-color: white;
+    text-align: center;
+  }
+
+  .web-card-img {
+    width: 194px;
+    margin-top: 46px;
+  }
+
+  .contact-img {
+    background-image: url("https://mobirise.com/extensions/glassm5/freelancer/assets/images/background4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 649px;
+    margin: -34px -1px 34px 0px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .bigg-card {
+    width: 1194px;
+    height: 348px;
+    margin: 95px -33px 87px 8px;
+    /* border: 2px solid red; */
+    backdrop-filter: blur(5px);
+    border: 2px solid white;
+    border-radius: 20px;
+
+  }
+
+  #contact-txt {
+    font-size: 42px;
+    padding: 62px;
+  }
+
+
+  .contact-all-logo {
+    display: flex;
+    font-size: 27px;
+  }
+
+  .user-logo {
+    margin-left: 104px;
+  }
+
+  .contact-user {
+    margin: 1px 178px 17px 5px;
+  }
+
+  .email-logo {
+    margin: -26px 0px 0px 21px;
+  }
+
+  .fa-envelope {
+    margin: 31px 20px -15px -329px;
+  }
+
+  /* #hello{
+    margin: -35px 158px 18px 26px;
+  } */
+  .paragraph {
+    background-image: url("https://mobirise.com/extensions/glassm5/freelancer/assets/images/background5.jpg");
+    padding-top: 32rem;
+    padding-bottom: 6rem;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: -25px;
+    margin: 8px 27px 172px 0px;
+    width: 100%;
+    margin-top: -128px;
+  }
+
+  #paragraph-card {
+    width: 1145px;
+    height: 320px;
+    /* border: 1px solid green; */
+    margin: -372px 0px 0px 387px;
+    border-radius: 20px;
+    background: white;
+  }
+
+  .paragraph-text {
+    text-align: center;
+    font-size: 28px;
+  }
+
+  .enter-email {
+    background-image: url("https://mobirise.com/extensions/glassm5/freelancer/assets/images/background2.jpg");
+    padding-top: 331px;
+    /* padding-bottom: 78px; */
+    margin-top: -172px;
+  }
+
+  .email-area {
+    width: 966px;
+    height: 100px;
+    /* border: 2px solid red; */
+    margin: -266px 0px 0px 674px;
+    background: white;
+  }
+
+  .email-type {
+    width: 567px;
+    height: 43px;
+    margin: 24px 0px 0px 65px;
+  }
+
+  .subscrib-btn {
+    margin: -49px 0px 0px 718px;
+  }
+
+  .Subscrib-event {
+    width: 171px;
+    height: 51px;
+    border-radius: 43px;
+    background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+    color: white;
+    font-size: 18px;
+  }
+
+  .subscrib-txt {
+    align-items: inherit;
+    /* margin: 35px; */
+    margin-left: 280px;
+    margin-top: -53px;
+    font-size: 33px;
+
+  }
+
+  .laptop {
+    background-image: url("https://mobirise.com/extensions/glassm5/freelancer/assets/images/background8.jpg");
+    height: 750px;
+    background-repeat: no-repeat;
+  }
+
+  .laptop-girl-card {
+    width: 411px;
+    margin-left: 364px;
+    margin-top: 109px;
+    border-radius: 20px;
+  }
+
+  .laptop-txt {
+    /* border: 1px solid red; */
+    height: 290px;
+    width: 773px;
+    margin: -428px 0px 0px 817px;
+    background: white;
+    text-align: inherit;
+    border-radius: 20px;
+  }
+
+  .laptop-para {
+    padding: 12px 43px 27px 69px;
+    font-size: 31px;
+  }
+
+  .laptop-para-s {
+    font-size: 19px;
+    margin-left: 76px;
+  }
+
+  .form {
+    background-image: url("https://mobirise.com/extensions/glassm5/freelancer/assets/images/background1.jpg");
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height: 750px;
+    background-repeat: no-repeat;
+
+  }
+
+  .form-validation {
+    width: 1027px;
+    height: 766px;
+    /* border: 2px solid red; */
+    margin: 35px 0px 0px 421px;
+    backdrop-filter: blur(31px);
+    border: 2px solid white;
+  }
+
+  #form-header {
+    margin: 105px 0px 0px 459px;
+  }
+
+  .form-subject {
+    display: flex;
+  }
+
+  .name {
+    margin-left: 80px;
+  }
+
+  .form-name {
+    height: 38px;
+    width: 380px
+  }
+
+  .email {
+    margin-left: 80px;
+  }
+
+  .form-email {
+    height: 38px;
+    width: 380px;
+  }
+
+  .subject {
+    margin: 102px 324px 6px -857px;
+  }
+
+  .form-subject {
+    height: 38px;
+    width: 380px
+  }
+
+  .phone {
+    margin: 102px 324px 6px -241px;
+  }
+
+  .form-phone {
+    height: 38px;
+    width: 380px
+  }
+
+  #msg {
+    margin: 206px 0px 0px -1183px;
+  }
+
+  #msg {
+    width: 849px;
+    height: 250px;
+  }
+
+  #sand-massage {
+    margin: 521px 0px -5px -1183px;
+    height: 52px;
+    width: 231px;
+    border-radius: 20px;
+    border-radius: 43px;
+    background: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+    color: white;
+    font-size: 18px;
+  }
+
+  .footer {
+    width: 100%;
+    height: 400px;
+    background: black;
+    color: white;
+  }
+
+  .footer-para {
+    height: 300px;
+    width: 300px;
+    /* border: 1px solid red; */
+    font-size: 23px;
+    margin-left: 301px;
+    padding-top: 74px;
+  }
+
+  .footer-head {
+    /* padding: 74px 32px 0px 0px; */
+  }
+
+  .footer-link {
+    margin: -209px 0px 0px 655PX;
+    font-size: 15px;
+  }
+
+  .footer-link-s {
+    margin: -194px 0px 0px 911px;
+    font-size: 15px;
+  }
+
+  .footer-link-l {
+    margin: -195px 0px 0px 1133px;
+    font-size: 15px;
+  }
